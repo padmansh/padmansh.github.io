@@ -1,0 +1,122 @@
+.card {
+    margin-top: 6%;
+    margin-bottom: 5%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+    box-shadow: 5px 5px 30px rgba(255, 255, 255, 0.678);
+    background-color: rgb(255, 255, 255);
+    background-image: url(https://wallpaperplay.com/walls/full/e/e/a/33401.jpg);
+    line-height: 40px;
+}
+
+#plot {
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 0.5%;
+}
+
+#p {
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 2%;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+body {
+    background-color: rgb(24, 26, 24);
+}
+
+#title {
+    font-size: 2em;
+    font-weight: 900;
+}
+
+.design {}
+
+#main {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+#side {
+    font-size: 23px;
+    font-weight: 400;
+    justify-content: center;
+}
+
+#year {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#runtime {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#awards {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+#country {
+    font-size: 18px;
+}
+
+#awards span svg {
+    font-size: 20px;
+}
+
+#votes {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#rate {
+    font-weight: 800;
+}
+
+#imdb {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#meta {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#rt {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#genre {
+    font-weight: 300;
+}
+
+#director {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#actors {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#language {
+    font-weight: 900;
+}
+
+#rated {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.img-thumbnail {
+    box-shadow: 5px 5px 5px black;
+}
